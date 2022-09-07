@@ -17,7 +17,7 @@
             name="first"
             img-src="../assets/imgs/checking-conditioner-min.jpg"
           >
-            <q-btn class="bg-primary text-bold text-grey-2 float-right"
+            <q-btn href="#contact" class="bg-primary text-bold text-grey-2 float-right"
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
@@ -32,7 +32,7 @@
             </div>
           </q-carousel-slide>
           <q-carousel-slide name="second" img-src="../assets/imgs/aircon4.jpg">
-            <q-btn class="bg-primary text-bold text-grey-2 float-right"
+            <q-btn href="#contact" class="bg-primary text-bold text-grey-2 float-right"
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
@@ -50,7 +50,7 @@
             </div>
           </q-carousel-slide>
           <q-carousel-slide name="third" img-src="../assets/imgs/aircon8.jpg">
-            <q-btn class="bg-primary text-bold text-grey-2 float-right"
+            <q-btn href="#contact" class="bg-primary text-bold text-grey-2 float-right"
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
@@ -168,7 +168,7 @@
         </div>
       </div>
     </div>
-    <div class="row q-px-lg q-mt-lg">
+    <div class="row q-px-lg q-mt-lg" id="contact">
       <div class="col-12 col-md-8 bg-grey-2">
         <h1 class="text-bold">Chill out!</h1>
         <h6>Are you ready for the big chill?</h6>
