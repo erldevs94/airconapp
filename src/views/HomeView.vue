@@ -21,7 +21,7 @@
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
-              <div class="text-h2 text-primary">
+              <div class="text-h3 text-primary">
                 <span class="bg-blue-1 q-pa-sm rounded-borders"
                   >CLEAN AIRE</span
                 >
@@ -36,7 +36,7 @@
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
-              <div class="text-h2 text-primary">
+              <div class="text-h3 text-primary">
                 <span class="bg-blue-1 q-px-sm q-pb-sm rounded-borders"
                   >Aircon Services</span
                 >
@@ -54,7 +54,7 @@
               >Request a quote</q-btn
             >
             <div class="absolute-bottom custom-caption">
-              <div class="text-h2 text-primary">
+              <div class="text-h3 text-primary">
                 <span class="bg-blue-1 q-pb-sm q-px-sm rounded-borders">
                   Home Service
                 </span>
@@ -176,10 +176,10 @@
       <div class="col-12 col-md-4 bg-primary">
         <h1 class="text-grey-3 text-bold text-center">Let's Talk</h1>
         <h6 class="text-center text-white">
-          <q-icon name="call"></q-icon>: 09918625382 /
-          <q-icon name="mail"></q-icon>l.cabilan@yahoo.com / 
+          <q-icon name="call"></q-icon> 09918625382 /
+          <q-icon name="mail"></q-icon><a class="text-white" href="mailto:louwellcabilan08@gmail.com"> louwellcabilan08@gmail.com</a> / 
           <a
-          class="text-bold text-white"
+          class="text-white"
           href="https://www.facebook.com/profile.php?id=100009552072438"
           target="_blank"
         >Facebook</a>
